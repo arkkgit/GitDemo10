@@ -9,6 +9,5 @@ namespace GitDemo10
     internal class Class2
     {
         //adhsihdsioh
-        // this is not necessary
     }
 }
