@@ -8,5 +8,6 @@ namespace GitDemo10
 {
     internal class Class2
     {
+        //adhsihdsioh
     }
 }
